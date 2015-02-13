@@ -8,7 +8,7 @@ This file contains a number of Scala interview questions that can be used when v
 
   1. [General Questions](#general-questions)
   1. [Language Questions](#language-questions)
-  1. [Functional Questions](#functional-questions)
+  1. [Functional Programming Questions](#functional-programming-questions)
   1. [Reactive Programming Questions](#reactive-programming-questions)
   1. [Coding Questions](#coding-questions)
   1. [Fun Questions](#fun-questions)
@@ -22,38 +22,38 @@ This file contains a number of Scala interview questions that can be used when v
 #### General Questions:
 
 * What did you learn yesterday/this week?
-* Why and How do you started learning Scala?
+* Why and how did you start learning Scala?
 * What excites or interests you about coding in Scala?
 * What is a recent technical challenge you experienced and how did you solve it?
 * Talk about your preferred development environment. (OS, Editor or IDE, Tools, etc.)
-* What are you thoughts about the other JVM languages in compared to Scala?
-* Do you think that the Scala language and community it's mature enough?
+* What are your thoughts about the other JVM languages compared to Scala?
+* Do you think that the Scala language and community is mature enough?
 
 #### Language Questions:
 
 * What is the difference between a `var`, a `val` and `def`?
 * What is the difference between a `trait` and an `abstract class`?
 * What is the difference between an `object` and a `class`?
-* What is `case class`?
+* What is a `case class`?
 * What is the difference between a Java future and a Scala future?
 * What is the difference between `unapply` and `apply`, when would you use them?
 * What is a companion object?
-* What’s the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
+* What is the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
 * What is `Unit`?
 
-#### Functional Questions:
+#### Functional Programming Questions:
 
-* What is Monad?
-  * Which are the Monad laws?
-  * Which Scala data types are or it behave like Monads?
-  * Which are the basic requirement/s, and the optionals, to conform a Monad?
+* What is a monad?
+  * What are the monad axioms?
+  * What Scala data types are, or behave like, monads?
+  * What are the basic and optional requirement/s to conform a Monad?
 * Explain higher order functions.
-* What is gained using immutable objects?
+* What is gained from using immutable objects?
 * What operations is a for comprehension syntactic sugar for?
-* What is recursion tail?
-  * What issue do you have with the tail recursive function in the JVM?
-  * How the Scala compiler optimised a tail recursive function?
-  * How do you ensure that compiler optimises the tail recursive function?
+* What is tail recursion?
+  * What issues are there with tail recursive functions in the JVM?
+  * How does the Scala compiler optimize a tail recursive function?
+  * How do you ensure that the compiler optimizes the tail recursive function?
 * What is function currying?
 * What are implicit parameters?
 
@@ -61,11 +61,11 @@ This file contains a number of Scala interview questions that can be used when v
 
 * Explain the actor model.
 * Explain the Reactive Manifesto.
-* Which are benefits of non-blocking (asynchronous I/O) over blocking (synchronous I/O).
-* Do you think that Scala have the same async spirit than NodeJS?
+* What are benefits of non-blocking (asynchronous I/O) over blocking (synchronous I/O).
+* Do you think that Scala has the same async spirit as Node.js?
 * Explain the difference between ‘concurrency’ and ‘parallelism,’ and name some constructs you can use in Scala to leverage both.
 * What is the global ExecutionContext?
-  * What does the global ExecutionContext underlies?
+  * What does the global ExecutionContext underlay?
 
 #### Coding Questions:
 
