@@ -40,6 +40,7 @@ This file contains a number of Scala interview questions that can be used when v
 * What is a companion object?
 * What is the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
 * What is `Unit`?
+* How does `yield` work?
 * Explian the implicit parameter precedence.
 
 #### Functional Programming Questions:
