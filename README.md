@@ -41,7 +41,7 @@ This file contains a number of Scala interview questions that can be used when v
 * What is the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
 * What is `Unit`?
 * What is the difference between a `call-by-value` and `call-by-name` parameter? 
-* How does this benefit to Scala's `Stream` trait?
+* How does Scala's `Stream` trait levarages `call-by-name`?
 * Define uses for the `Option` monad and good practices it provides.
 * How does `yield` work?
 * Explain the implicit parameter precedence.
@@ -56,12 +56,12 @@ This file contains a number of Scala interview questions that can be used when v
 * What is gained from using immutable objects?
 * What operations is a for comprehension syntactic sugar for?
 * What is tail recursion?
+  * How does it differentiate from common recursion?
   * What issues are there with tail recursive functions in the JVM?
   * How does the Scala compiler optimize a tail recursive function?
   * How do you ensure that the compiler optimizes the tail recursive function?
 * What is function currying?
 * What are implicit parameters?
-* What does tail recursion imply? How does it differentiate from common recursion?
 
 #### Reactive Programming Questions:
 
