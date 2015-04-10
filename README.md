@@ -41,7 +41,7 @@ This file contains a number of Scala interview questions that can be used when v
 * What is the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
 * What is `Unit`?
 * What is the difference between a `call-by-value` and `call-by-name` parameter? 
-* How does Scala's `Stream` trait levarages `call-by-name`?
+	* How does Scala's `Stream` trait levarages `call-by-name`?
 * Define uses for the `Option` monad and good practices it provides.
 * How does `yield` work?
 * Explain the implicit parameter precedence.
