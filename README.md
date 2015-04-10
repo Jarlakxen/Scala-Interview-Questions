@@ -40,8 +40,11 @@ This file contains a number of Scala interview questions that can be used when v
 * What is a companion object?
 * What is the difference between the following terms and types in Scala: `Nil`, `Null`, `None`, `Nothing`?
 * What is `Unit`?
+* What is the difference between a `call-by-value` and `call-by-name` parameter? 
+	* How does Scala's `Stream` trait levarages `call-by-name`?
+* Define uses for the `Option` monad and good practices it provides.
 * How does `yield` work?
-* Explian the implicit parameter precedence.
+* Explain the implicit parameter precedence.
 
 #### Functional Programming Questions:
 
@@ -53,6 +56,7 @@ This file contains a number of Scala interview questions that can be used when v
 * What is gained from using immutable objects?
 * What operations is a for comprehension syntactic sugar for?
 * What is tail recursion?
+  * How does it differentiate from common recursion?
   * What issues are there with tail recursive functions in the JVM?
   * How does the Scala compiler optimize a tail recursive function?
   * How do you ensure that the compiler optimizes the tail recursive function?
@@ -81,3 +85,5 @@ This file contains a number of Scala interview questions that can be used when v
 #### Fun Questions:
 
 * What's a cool project that you've recently worked on?
+* What testing framework for Scala do you use?
+* What do you know about property based testing frameworks, such as Scalacheck?
