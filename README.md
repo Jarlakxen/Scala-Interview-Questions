@@ -45,6 +45,7 @@ This file contains a number of Scala interview questions that can be used when v
 * Define uses for the `Option` monad and good practices it provides.
 * How does `yield` work?
 * Explain the implicit parameter precedence.
+* What operations is a for comprehension syntactic sugar for?
 
 #### Functional Programming Questions:
 
@@ -54,7 +55,6 @@ This file contains a number of Scala interview questions that can be used when v
   * What are the basic and optional requirement/s to conform a Monad?
 * Explain higher order functions.
 * What is gained from using immutable objects?
-* What operations is a for comprehension syntactic sugar for?
 * What is tail recursion?
   * How does it differentiate from common recursion?
   * What issues are there with tail recursive functions in the JVM?
@@ -62,6 +62,8 @@ This file contains a number of Scala interview questions that can be used when v
   * How do you ensure that the compiler optimizes the tail recursive function?
 * What is function currying?
 * What are implicit parameters?
+* What are typeclasses?
+* What are lenses?
 * What is and which are the uses of: Enumerators, Enumeratees and Iteratee
 
 #### Reactive Programming Questions:
