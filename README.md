@@ -45,12 +45,15 @@ This file contains a number of Scala interview questions that can be used when v
 * Define uses for the `Option` monad and good practices it provides.
 * How does `yield` work?
 * Explain the implicit parameter precedence.
-* What operations is a for comprehension syntactic sugar for?
+* What operations is a `for comprehension` syntactic sugar for?
+* Streams:
+	* What consideration you need to have when you use Scala's `Streams`? 
+	* What technique does the Scala's `Streams` use internally?
 
 #### Functional Programming Questions:
 
-* What is a monad?
-  * What are the monad axioms?
+* What is a `monad`?
+  * What are the `monad` axioms?
   * What Scala data types are, or behave like, monads?
   * What are the basic and optional requirement/s to conform a Monad?
 * Explain higher order functions.
@@ -69,12 +72,14 @@ This file contains a number of Scala interview questions that can be used when v
 #### Reactive Programming Questions:
 
 * Explain the actor model.
-* Explain the Reactive Manifesto.
 * What are benefits of non-blocking (asynchronous I/O) over blocking (synchronous I/O).
 * Do you think that Scala has the same async spirit as Node.js?
-* Explain the difference between ‘concurrency’ and ‘parallelism,’ and name some constructs you can use in Scala to leverage both.
+* Explain the difference between `concurrency` and `parallelism`, and name some constructs you can use in Scala to leverage both.
 * What is the global ExecutionContext?
   * What does the global ExecutionContext underlay?
+* What is the global ExecutionContext?
+* Akka:
+	* Which are the 3 main components in a Stream?
 
 #### Coding Questions:
 
