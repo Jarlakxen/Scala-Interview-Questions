@@ -86,8 +86,8 @@ This file contains a number of Scala interview questions that can be used when v
 * How can you make a `List[String]` from a `List[List[String]]`?
 * What is the difference (if any) between these 2 statements? 
 ```scala
-  var x = immutable.set[Int]
-  val y = mutable.set[Int]
+  var x = immutable.Set[Int]()
+  val y = mutable.Set[Int]()
 ```
 
 #### Fun Questions:
