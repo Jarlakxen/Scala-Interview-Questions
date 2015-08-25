@@ -52,6 +52,8 @@ This file contains a number of Scala interview questions that can be used when v
 
 #### Functional Programming Questions:
 
+* What is a `functor`?
+* What is a `applicative`?
 * What is a `monad`?
   * What are the `monad` axioms?
   * What Scala data types are, or behave like, monads?
