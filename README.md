@@ -79,7 +79,6 @@ This file contains a number of Scala interview questions that can be used when v
 * Explain the difference between `concurrency` and `parallelism`, and name some constructs you can use in Scala to leverage both.
 * What is the global ExecutionContext?
   * What does the global ExecutionContext underlay?
-* What is the global ExecutionContext?
 * Akka:
 	* Which are the 3 main components in a Stream?
 
