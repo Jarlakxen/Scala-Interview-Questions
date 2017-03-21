@@ -1,4 +1,4 @@
-#Scala Job Interview Questions
+# Scala Job Interview Questions
 
 This file contains a number of Scala interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
@@ -12,6 +12,7 @@ This file contains a number of Scala interview questions that can be used when v
   1. [Reactive Programming Questions](#reactive-programming-questions)
   1. [Coding Questions](#coding-questions)
   1. [Fun Questions](#fun-questions)
+  1. [Answers](#answer)
 
 ## Getting Involved
 
@@ -97,3 +98,10 @@ This file contains a number of Scala interview questions that can be used when v
 * What testing framework for Scala do you use?
 * What do you know about property based testing frameworks, such as Scalacheck?
 * Do you like ‘scalaz‘?
+
+#### Answers:
+
+* [Scala interview questions](http://pedrorijo.com/blog/scala-interview-questions/) by [@pedrorijo91](https://github.com/pedrorijo91)
+
+
+
